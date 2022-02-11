@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Wtf Drive",
+  title: "WTF Drive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/public',
@@ -49,8 +49,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
+      name: 'GitHub-alt',
       link: 'https://github.com/arlenWKX/onedrive-vercel-index',
+    },
+    {
+      name: 'Blog',
+      link: 'https://cnblogs.com/wukaixuan'
     }
   ],
 
